@@ -145,9 +145,9 @@ lansi_arm_sdk/
 
 ### 📞 联系
 
-- 作者: [Your Name]
+- 作者: [alex]
 - GitHub: [@lansi-robotics](https://github.com/lansi-robotics)
-- 邮箱: support@lansi-robotics.com
+- 邮箱: 178176916cc@gmail.com
 
 ---
 
